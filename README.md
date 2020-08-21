@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:woman: Eu sou a Gabrielli, Desenvolvedora Front-end e UX/UI Design (em formação) 
+:woman: Eu sou a Gabrielli, #####Desenvolvedora Front-end e UX/UI Design (em formação) 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/gabriellivenerando)      
 
-### Desenvolvedora Front-end 
+
 
 <!-- ##### ⚡ JavaScript | React -->
